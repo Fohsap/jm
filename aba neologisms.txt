@@ -23,7 +23,7 @@ presence - the gift that is you, here right now, IRL (in real life), your compan
 
 scales [of combat] - military terminology; 
 
-var-root behavioring - behavior being caused by var.
+var-root behavioring - behavior being caused by var (example a, tension-root irritability): as made popular by Skinner's explanation for specification of where behavior originates (i.e., from the learner as opposed to from the teacher), English is naturally ambiguous with phrases like "tension irritability"; so, in formal language, root vs result should be pre-specified.
 
 ```
 the TACTIAL scale is "the smallest unit-sized level of combat", often consisting of only single units or partial units! Meaning INDIVIDUALS WILL BE MAKING DECISIONS!
