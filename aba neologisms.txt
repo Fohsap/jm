@@ -1,5 +1,7 @@
 *note: I often find my definition falls out of the popular eye so I included the epitomic 
 
+affirmative-complimentary-language-friends delusion - common delusion whereby people who speak in complimentary and/or affirmative language believe listener faction increases are more likely to occur than they actually are likely to occur.
+
 elephesence - with great love and care for children; .
 
 entactogoan - a behavior that creates a [potentially hallucinatory] sense of empathy between a transducer and some other stimuli.
@@ -20,6 +22,8 @@ optimized (Libera/IRC standard) - written in language the youngest possible chil
 presence - the gift that is you, here right now, IRL (in real life), your company, your continuous quiditiy in the present (not in the mind), your opaqueness, your you, your vision/personality/emotion/mood/mind, you.
 
 scales [of combat] - military terminology; 
+
+var-root behavioring - behavior being caused by var.
 
 ```
 the TACTIAL scale is "the smallest unit-sized level of combat", often consisting of only single units or partial units! Meaning INDIVIDUALS WILL BE MAKING DECISIONS!
